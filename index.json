@@ -1,0 +1,11 @@
+{
+  "org": "ReactiveX",
+  "repo": "rxdart",
+  "versions": [
+    {
+      "commit": "d1f3ba64f71669a137489341009345f59ec84614",
+      "tag": "",
+      "parsed_at": "2026-11-09T19:11:30.154989+00:00"
+    }
+  ]
+}
